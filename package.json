@@ -1,0 +1,23 @@
+{
+  "name": "ajs--platforms2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davmarat/ajs--platforms2.git"
+  },
+  "author": "marat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davmarat/ajs--platforms2/issues"
+  },
+  "homepage": "https://github.com/davmarat/ajs--platforms2#readme",
+  "dependencies": {
+    "@davmarat/ajs": "^1.0.0"
+  }
+}
